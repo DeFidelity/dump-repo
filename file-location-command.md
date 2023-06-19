@@ -49,3 +49,42 @@ To verify if the PATH has been updated correctly, you can run `echo $PATH` in th
 If you are using a different shell, such as Zsh, you would need to modify the corresponding profile file (e.g., `~/.zshrc`) instead of `~/.bashrc`.
 
 Let me know if you have any further questions!
+
+
+If you're encountering difficulties using the `nano` editor to modify the `~/.bashrc` file, you can try an alternative method to clean it up and add the `flyctl` executable to the PATH by running commands.
+
+Here's an alternative approach to clean up the `~/.bashrc` file and add the `flyctl` executable to the PATH using commands:
+
+1. Clean up the `~/.bashrc` file:
+   - Create a backup of the `~/.bashrc` file, just in case:
+     ```
+     cp ~/.bashrc ~/.bashrc_backup
+     ```
+
+   - Remove the existing `~/.bashrc` file:
+     ```
+     rm ~/.bashrc
+     ```
+
+   - Generate a new, clean `~/.bashrc` file:
+     ```
+     echo 'export PATH="$PATH:/home/amusat-haki/.fly/bin"' > ~/.bashrc
+     ```
+
+2. Apply the changes:
+   - Reload the updated `~/.bashrc` file to apply the changes:
+     ```
+     source ~/.bashrc
+     ```
+
+3. Verify the PATH:
+   - Confirm that the `flyctl` executable is now in the PATH:
+     ```
+     which flyctl
+     ```
+
+   - It should display the location of the `flyctl` executable, indicating that it has been added to the PATH successfully.
+
+By following these steps, you will create a new `~/.bashrc` file with the `flyctl` executable added to the PATH. This approach avoids editing the file manually and allows you to achieve the desired result through commands.
+
+Let me know if you have any further questions!
