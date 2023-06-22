@@ -40,11 +40,9 @@ Great! Now that you have the location of the `flyctl` executable, you can add it
 
 3. Save the changes by pressing Ctrl+O, then press Enter to confirm. Exit the text editor by pressing Ctrl+X.
 
-4. Either restart your terminal or run the command
-
+4. Either restart your terminal or run the command:
 
 ```source ~/.bashrc```
-
 
  to apply the changes to the current session.
 
