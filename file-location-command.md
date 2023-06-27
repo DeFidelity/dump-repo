@@ -91,4 +91,6 @@ Here's an alternative approach to clean up the `~/.bashrc` file and add the `fly
 
 By following these steps, you will create a new `~/.bashrc` file with the `flyctl` executable added to the PATH. This approach avoids editing the file manually and allows you to achieve the desired result through commands.
 
-Let me know if you have any further questions!
+```
+locate pre-commit | grep bin/pre-commit$
+```
