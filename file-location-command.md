@@ -94,3 +94,10 @@ By following these steps, you will create a new `~/.bashrc` file with the `flyct
 ```
 locate pre-commit | grep bin/pre-commit$
 ```
+
+reduce number of machines running on fly.io to 1:
+```
+ fly scale count --app handlefinder-database 1
+```
+scale to zero link:
+https://fly.io/docs/postgres/managing/scale-to-zero/
