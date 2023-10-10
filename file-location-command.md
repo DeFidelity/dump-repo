@@ -101,3 +101,7 @@ reduce number of machines running on fly.io to 1:
 ```
 scale to zero link:
 https://fly.io/docs/postgres/managing/scale-to-zero/
+
+start celery:
+celery -A sherlock_rest_service worker -l INFO
+
