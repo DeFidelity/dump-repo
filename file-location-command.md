@@ -105,3 +105,7 @@ https://fly.io/docs/postgres/managing/scale-to-zero/
 start celery:
 celery -A sherlock_rest_service worker -l INFO
 
+
+The Windows file system is accessible from WSL under the /mnt/ directory. For example, your C: drive would be accessible under /mnt/c/1. So, if you want to navigate to your Windows user directory from WSL, you would use the command cd /mnt/c/Users/user.
+
+If you want your WSL terminal to start in a specific directory, you can add a cd command to the end of your shell’s startup file. For example, if you’re using bash, you could add cd /mnt/c/Users/user to the end of the ~/.bashrc file
