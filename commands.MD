@@ -12,3 +12,8 @@ add fly.io to path:
 
 export FLYCTL_INSTALL="/home/defideh/.fly"
   export PATH="$FLYCTL_INSTALL/bin:$PATH"
+
+
+ubuntu:
+export FLYCTL_INSTALL="/home/defidelity/.fly"
+  export PATH="$FLYCTL_INSTALL/bin:$PATH"
