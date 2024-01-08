@@ -1,79 +1,163 @@
-K2 Aif Flow
+1Kiln
 
-30/12/23
+Shell Tomp
 
-ベー
+2
 
-I win heer @ 60+m
+227-6
 
-final fan 8p\times e_{d}=80\%
+213-1
 
-I tem
+4
 
-=65c
+209-1
 
-wer toled zer
+5
 
-=403.62\cdot q =408609.00
+202-9
 
-lawin freed fotarizer -55/416
+6
 
-(11:15am
+2065
 
-=551658 @3:15pm
+7
 
-Iet = 658 v =1315
+239.2
 
-Kiln feed fotalizer = 551416 @ 11:15a\infty = 651658 @3:15pm
+8
 
-* Cael Fining totalizer = 403568-8@ 11:15am
+2007
 
-= 403609.03:15PM
+9
 
-In perise measurement = 2.9N/NMK.
+219-1
 
-PREHEATER EXIT AIRFLOW
+2539
 
-PH AIRflow
+284.9
 
-GAS VELO CÂY =16.72~m/s
+12
 
-12 GAS FloWRATE
+253-0
 
-235050 M3/4 (Volume)
+13
 
-3 Flow
+244.5
 
-=7648c Nm³/h
+14
 
-DAMPER OPENING
+214.9
 
-100%
+151-1
 
-5 FAN CURRENT
+16
 
-252A
+1463
 
-600RPM 808
+17
 
-FINAL FAN SPEED
+148.2
 
-60TPH
+18
 
-AX
+19
 
-KILN FEED
+152.1
 
-DISIGN
+20
 
-4.3
+147.6
 
-FLOWRATE = 314,351 m³/h
+21
 
-POWIER
+149.7
 
-= 355 KW
+22
 
-PRESSURE =-27 mbar
+160-5
 
-RPM 963 rpm
+23
+
+187-9
+
+24
+
+189-31
+
+25
+
+182-6
+
+26
+
+212.0
+
+27
+
+227.0
+
+28
+
+267.2
+
+29
+
+216.0
+
+30
+
+2006
+
+31
+
+193.2
+
+32
+
+2059
+
+33
+
+203-3
+
+34
+
+2034
+
+35
+
+103-7
+
+36
+
+157-0
+
+37
+
+151-6
+
+38
+
+270
+
+39
+
+249.6
+
+40
+
+243.1
+
+41
+
+229.5
+
+42
+
+156.5
+
+43
+
+244.5
+
+PRESSURE
