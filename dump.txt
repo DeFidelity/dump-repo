@@ -1,21 +1,11 @@
-PH Exut temp. 541
+Phyficer
 
-CCR → 532/550
+320 Co=79 +86 +370 = 161.7 = PPM
 
-Exit Pressure
+O_{2}=4\cdot86+466+3\cdot69+3\cdot84=4\cdot13^{\circ}y
 
--23 mbar
+16x=40\cdot2+44\cdot9+43.6=431m
 
-CCR-28.7 mbar
+N0=38+43+43=41\cdot3~1m
 
-GAS of low 024.6
-
-Stage H
-
-Pressure => 2.4
-
-temperature 837 DC
-
-CCR
-
-tem => 86900
+NO_{2}=2\cdot2+1\cdot9+0\cdot6=1.57Prm
