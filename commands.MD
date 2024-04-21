@@ -17,3 +17,6 @@ export FLYCTL_INSTALL="/home/defideh/.fly"
 ubuntu:
 export FLYCTL_INSTALL="/home/defidelity/.fly"
   export PATH="$FLYCTL_INSTALL/bin:$PATH"
+
+
+You could delete it by typing sudo rm -rf {dir_name}. The directory might have been set to read-only permission. I hope the given command can delete the folder.
