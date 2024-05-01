@@ -2,6 +2,7 @@
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
+5538 1348
 
 app = "sherlock-drf-api"
 primary_region = "sea"
@@ -15,7 +16,7 @@ kill_signal="SIGINT"
 [experimental]
   auto_rollback = true
   http2 = true
-
+6612 2856
 [[services]]
   http_checks = []
   internal_port = 8000
@@ -35,6 +36,7 @@ kill_signal="SIGINT"
   [[services.ports]]
     handlers = ["tls", "http"]
     port = 443
+5538 1348
 
   [[services.tcp_checks]]
     grace_period = "1s"
